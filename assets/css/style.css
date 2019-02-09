@@ -73,10 +73,11 @@ body {
   }
 
 
-  .work h3 {
-    font-weight: 300;
+  .work a {
+    font-weight: bold;
     color: #ffffff;
     background: #4aaaa5;
+  
   }
 
   .carousel-caption{
